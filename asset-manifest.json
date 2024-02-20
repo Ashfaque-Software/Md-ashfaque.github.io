@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "//Md-ashfaque.github.io/static/css/main.979a48e8.css",
-    "main.js": "//Md-ashfaque.github.io/static/js/main.aa505e48.js",
-    "static/media/pic1.jpg": "//Md-ashfaque.github.io/static/media/pic1.f4a544fba61356d19bec.jpg",
-    "static/media/django.png": "//Md-ashfaque.github.io/static/media/django.5a91f76cc530d3a29eea.png",
-    "static/media/cv.pdf": "//Md-ashfaque.github.io/static/media/cv.485aa12553800f3b0a5d.pdf",
-    "static/media/spring.png": "//Md-ashfaque.github.io/static/media/spring.287c1af8b09cf06628bc.png",
-    "static/media/symfony.png": "//Md-ashfaque.github.io/static/media/symfony.339a889e2c55a44f70a4.png",
-    "static/media/logo.png": "//Md-ashfaque.github.io/static/media/logo.b68ca75808e7986c96b5.png",
-    "static/media/react.png": "//Md-ashfaque.github.io/static/media/react.20adfb35ae6a6e5817bf.png",
-    "static/media/js.png": "//Md-ashfaque.github.io/static/media/js.1707d09a3f6f31bb97e8.png",
-    "static/media/github.png": "//Md-ashfaque.github.io/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/HTML.png": "//Md-ashfaque.github.io/static/media/HTML.2ba4fabc69a89a8f71e6.png",
-    "static/media/tailwind.png": "//Md-ashfaque.github.io/static/media/tailwind.e47ac876b8d4d0bba47a.png",
-    "static/media/css.png": "//Md-ashfaque.github.io/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/angular.png": "//Md-ashfaque.github.io/static/media/angular.560a71e91c2db3f9de24.png",
-    "index.html": "//Md-ashfaque.github.io/index.html",
-    "main.979a48e8.css.map": "//Md-ashfaque.github.io/static/css/main.979a48e8.css.map",
-    "main.aa505e48.js.map": "//Md-ashfaque.github.io/static/js/main.aa505e48.js.map"
+    "main.css": "//md-ashfaque.github.io/static/css/main.979a48e8.css",
+    "main.js": "//md-ashfaque.github.io/static/js/main.6124e49c.js",
+    "static/media/pic1.jpg": "//md-ashfaque.github.io/static/media/pic1.f4a544fba61356d19bec.jpg",
+    "static/media/django.png": "//md-ashfaque.github.io/static/media/django.5a91f76cc530d3a29eea.png",
+    "static/media/cv.pdf": "//md-ashfaque.github.io/static/media/cv.485aa12553800f3b0a5d.pdf",
+    "static/media/spring.png": "//md-ashfaque.github.io/static/media/spring.287c1af8b09cf06628bc.png",
+    "static/media/symfony.png": "//md-ashfaque.github.io/static/media/symfony.339a889e2c55a44f70a4.png",
+    "static/media/logo.png": "//md-ashfaque.github.io/static/media/logo.b68ca75808e7986c96b5.png",
+    "static/media/react.png": "//md-ashfaque.github.io/static/media/react.20adfb35ae6a6e5817bf.png",
+    "static/media/js.png": "//md-ashfaque.github.io/static/media/js.1707d09a3f6f31bb97e8.png",
+    "static/media/github.png": "//md-ashfaque.github.io/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/HTML.png": "//md-ashfaque.github.io/static/media/HTML.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "//md-ashfaque.github.io/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "//md-ashfaque.github.io/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/angular.png": "//md-ashfaque.github.io/static/media/angular.560a71e91c2db3f9de24.png",
+    "index.html": "//md-ashfaque.github.io/index.html",
+    "main.979a48e8.css.map": "//md-ashfaque.github.io/static/css/main.979a48e8.css.map",
+    "main.6124e49c.js.map": "//md-ashfaque.github.io/static/js/main.6124e49c.js.map"
   },
   "entrypoints": [
     "static/css/main.979a48e8.css",
-    "static/js/main.aa505e48.js"
+    "static/js/main.6124e49c.js"
   ]
 }
